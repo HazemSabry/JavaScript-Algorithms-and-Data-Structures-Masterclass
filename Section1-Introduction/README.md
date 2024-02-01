@@ -22,4 +22,4 @@ Feel free to explore each sub-section at your own pace, and don't hesitate to re
 
 ---
 
-## Next Section: [Section 2: Big O Notation](/section2-big-o-notation)
+## Next Section: [Section 2: Big O Notation](/Section2-big-o-notation)
