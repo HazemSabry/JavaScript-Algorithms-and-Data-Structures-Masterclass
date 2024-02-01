@@ -42,6 +42,3 @@ Happy coding! 🚀
 **Colt Steele**
 Developer and Bootcamp Instructor
 
-### Contact Information
-
-For any questions, issues, or feedback, feel free to contact Colt Steele at [hazemsabry2002@gmail.com].
