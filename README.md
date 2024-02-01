@@ -4,7 +4,7 @@ Hello fellow coders! 👋 Welcome to my GitHub repository for the **JavaScript A
 
 ## My Experience
 
-As a student, I found this 20-hour video series to be a condensed treasure trove of computer science and interview preparation. Colt Steele's teaching style, derived from in-person coding bootcamps, where students land 6-figure developer jobs, resonated with me. The content is the real deal - no watering down for an online audience.
+As a student, I found this 22-hour video series to be a condensed treasure trove of computer science and interview preparation. Colt Steele's teaching style, derived from in-person coding bootcamps, where students land 6-figure developer jobs, resonated with me. The content is the real deal - no watering down for an online audience.
 
 ## What I've Gained
 
