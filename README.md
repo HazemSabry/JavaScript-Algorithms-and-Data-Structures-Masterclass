@@ -44,4 +44,4 @@ Developer and Bootcamp Instructor
 
 ### Contact Information
 
-For any questions, issues, or feedback, feel free to contact Colt Steele at [hazemsabry2002@gmail.com].
+For any questions, issues, or feedback, feel free to contact me at [hazemsabry2002@gmail.com].
