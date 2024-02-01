@@ -50,7 +50,7 @@ Expand your understanding of recursion with helper method recursion. Colt introd
 
 Discover the beauty of pure recursion. Colt explains the concept of pure recursion and guides you through solving problems without the need for helper methods.
 
-Feel free to explore each video and quiz at your own pace, experimenting with recursive solutions to various challenges. Happy coding!
+Feel free to explore each video and quiz at your own pace, experimenting with recursive solutions to various challenges. Happy coding !
 
 ---
 
