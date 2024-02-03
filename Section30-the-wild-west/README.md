@@ -8,57 +8,57 @@ Before diving into the coding exercises, make sure to read the important note pr
 
 ## Coding Exercises:
 
-### [Exercise 35: SLL - push Exercise](/exercise35-sll-push)
+### [Exercise 35: SLL - push Exercise](./exercise35-sll-push)
 
-### [Exercise 36: SLL - pop Exercise](/exercise36-sll-pop)
+### [Exercise 36: SLL - pop Exercise](./exercise36-sll-pop)
 
-### [Exercise 37: SLL - get Exercise](/exercise37-sll-get)
+### [Exercise 37: SLL - get Exercise](./exercise37-sll-get)
 
-### [Exercise 38: SLL - insert Exercise](/exercise38-sll-insert)
+### [Exercise 38: SLL - insert Exercise](./exercise38-sll-insert)
 
-### [Exercise 39: SLL - Rotate Exercise](/exercise39-sll-rotate)
+### [Exercise 39: SLL - Rotate Exercise](./exercise39-sll-rotate)
 
-### [Exercise 40: SLL - set Exercise](/exercise40-sll-set)
+### [Exercise 40: SLL - set Exercise](./exercise40-sll-set)
 
 Explore Single Linked List operations through a series of exercises, including pushing, popping, getting, inserting, rotating, and setting elements.
 
-### [Exercise 41: Divide and Conquer - countZeroes](/exercise41-divide-conquer-countzeroes)
+### [Exercise 41: Divide and Conquer - countZeroes](./exercise41-divide-conquer-countzeroes)
 
-### [Exercise 42: Divide and Conquer - sortedFrequency](/exercise42-divide-conquer-sortedfrequency)
+### [Exercise 42: Divide and Conquer - sortedFrequency](./exercise42-divide-conquer-sortedfrequency)
 
-### [Exercise 43: Divide and Conquer - findRotatedIndex](/exercise43-divide-conquer-findrotatedindex)
+### [Exercise 43: Divide and Conquer - findRotatedIndex](./exercise43-divide-conquer-findrotatedindex)
 
 Practice Divide and Conquer techniques with exercises focusing on counting zeroes, finding sorted frequency, and locating the index in a rotated array.
 
-### [Exercise 44-47: Sorting Exercises](/exercise44-47-sorting-exercises)
+### [Exercise 44-47: Sorting Exercises](./exercise44-47-sorting-exercises)
 
 Implement and practice various sorting algorithms, including Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, and Quick Sort.
 
-### [Exercise 48-55: Radix Sort Exercises](/exercise48-55-radix-sort-exercises)
+### [Exercise 48-55: Radix Sort Exercises](./exercise48-55-radix-sort-exercises)
 
 Explore and implement Radix Sort and its helper functions for digit manipulation.
 
-### [Exercise 56-59: Stacks and Queues Exercises](/exercise56-59-stacks-queues-exercises)
+### [Exercise 56-59: Stacks and Queues Exercises](./exercise56-59-stacks-queues-exercises)
 
 Practice operations on Stacks and Queues, including pushing, popping, and implementing a queue using two stacks.
 
-### [Exercise 60-68: Binary Search Tree and Binary Heap Exercises](/exercise60-68-bst-binary-heap-exercises)
+### [Exercise 60-68: Binary Search Tree and Binary Heap Exercises](./exercise60-68-bst-binary-heap-exercises)
 
 Implement operations on Binary Search Trees (BST) and Binary Heaps, covering insertion, removal, searching, and various exercises related to these data structures.
 
-### [Exercise 69-75: Graphs Exercises](/exercise69-75-graphs-exercises)
+### [Exercise 69-75: Graphs Exercises](./exercise69-75-graphs-exercises)
 
 Practice operations on Graphs, including adding vertices, removing edges and vertices, traversing graphs using DFS and BFS, and applying Dijkstra's Algorithm.
 
-### [Exercise 76-79: Dynamic Programming and Greedy Algorithms Exercises](/exercise76-79-dynamic-programming-greedy-exercises)
+### [Exercise 76-79: Dynamic Programming and Greedy Algorithms Exercises](./exercise76-79-dynamic-programming-greedy-exercises)
 
 Solve problems using Dynamic Programming, Greedy Algorithms, and explore the Coin Change problem.
 
-### [Exercise 80-84: Frequency Counter and Multiple Pointer Exercises](/exercise80-84-frequency-counter-multiple-pointer-exercises)
+### [Exercise 80-84: Frequency Counter and Multiple Pointer Exercises](./exercise80-84-frequency-counter-multiple-pointer-exercises)
 
 Apply Frequency Counter and Multiple Pointer patterns to solve various coding challenges.
 
-### [Exercise 85: Trie Exercise - autocomplete](/exercise85-trie-autocomplete)
+### [Exercise 85: Trie Exercise - autocomplete](./exercise85-trie-autocomplete)
 
 Explore the Trie data structure and implement autocomplete functionality.
 
