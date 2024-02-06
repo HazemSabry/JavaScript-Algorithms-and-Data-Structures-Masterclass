@@ -12,8 +12,9 @@ const QuickSort = (array, startIndex, endIndex) => {
 
   QuickSort(array, startIndex, pivot - 1);
   QuickSort(array, pivot + 1, endIndex);
-  return array;
+  return;
 };
 
 const array = [10, 8, 13, 1, 5, 2, 56, 6];
-console.log(QuickSort(array, 0, array.length - 1));
+QuickSort(array, 0, array.length - 1);
+console.log(array);
