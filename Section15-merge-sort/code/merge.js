@@ -5,14 +5,14 @@ const merge = (sortedArray1, sortedArray2) => {
   let arrayPointer = 0;
   while (pointer1 < sortedArray1.length && pointer2 < sortedArray2.length) {
     if (sortedArray1[pointer1] <= sortedArray2[pointer2])
-      sortedArray[arrayPointer++] = sortedArray1[pointer1++];
-    else sortedArray[arrayPointer++] = sortedArray2[pointer2++];
+      sortedArray.push(sortedArray1[pointer1++]);
+    else sortedArray.push(sortedArray2[pointer2++]);
   }
 
   while (pointer1 < sortedArray1.length)
-    sortedArray[arrayPointer++] = sortedArray1[pointer1++];
+    sortedArray.push(sortedArray1[pointer1++]);
   while (pointer2 < sortedArray2.length)
-    sortedArray[arrayPointer++] = sortedArray2[pointer2++];
+    sortedArray.push(sortedArray2[pointer2++]);
 
   return sortedArray;
 };
