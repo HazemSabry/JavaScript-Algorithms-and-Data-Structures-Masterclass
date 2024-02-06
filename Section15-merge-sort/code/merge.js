@@ -2,7 +2,6 @@ const merge = (sortedArray1, sortedArray2) => {
   let pointer1 = 0;
   let pointer2 = 0;
   const sortedArray = [];
-  let arrayPointer = 0;
   while (pointer1 < sortedArray1.length && pointer2 < sortedArray2.length) {
     if (sortedArray1[pointer1] <= sortedArray2[pointer2])
       sortedArray.push(sortedArray1[pointer1++]);
